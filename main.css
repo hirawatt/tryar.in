@@ -11,7 +11,7 @@
     --color-secondary: #f4ad56;
     --color-bg: #d9237d;
     --color-bg-hover: #ee5e68;
-    --color-light: #f2f2f2;
+    --color-light: #ffffff;
     --color-dark: #222222;
     --color-font: #46488d;
 }
@@ -29,7 +29,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 p,ul,ol {
-    color: var(--color-font);
+    color: var(--color-bg-hover);
     font-family: sans-serif;
 }
 
